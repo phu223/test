@@ -48,7 +48,7 @@ public class Scholarship {
         System.out.println("Long đẹp trai và ngầu lòi 3 ^^!");
    }
     public static void getName4(){
-        System.out.println("CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCc");
+        System.out.println("CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC");
    }
 }
 
