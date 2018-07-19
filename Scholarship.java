@@ -37,4 +37,7 @@ public class Scholarship {
     public static void getName(){
         System.out.println("Long đẹp trai và ngầu lòi ^^!");
     }
+    public static void getName2(){
+        System.out.println("Loli banzai :)))))))))))))))))))))))))");
+    }
 }
