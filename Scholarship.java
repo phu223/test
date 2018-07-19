@@ -34,4 +34,7 @@ public class Scholarship {
             return 0;
         }
     }
+    public static void getName(){
+        System.out.println("Long đẹp trai và ngầu lòi ^^!");
+    }
 }
