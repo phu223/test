@@ -23,6 +23,10 @@ public class Scholarship {
             return 0;
         }
     }
+
+    
+}
+=======
     public static int getPassLab(double loc){
          if (loc < 0) {
             return -1;
@@ -51,4 +55,5 @@ public class Scholarship {
         System.out.println("CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC");
    }
 }
+
 
