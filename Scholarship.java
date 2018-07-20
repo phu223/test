@@ -60,6 +60,9 @@ public static void getName5(){
 public static void getName6(){
         System.out.println("phu");
    }
+public static void getName8(){
+        System.out.println("phu22222222222222222");
+   }
 }
 
 
