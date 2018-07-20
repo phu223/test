@@ -57,6 +57,9 @@ public class Scholarship {
 public static void getName5(){
         System.out.println("long");
    }
+public static void getName6(){
+        System.out.println("phu");
+   }
 }
 
 
